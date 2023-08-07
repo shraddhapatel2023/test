@@ -96,7 +96,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd textanalysis
+  cd test
 ```
 
 Install dependencies
